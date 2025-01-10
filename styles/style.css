@@ -1,0 +1,212 @@
+body{
+    font-family: "Fira Sans", serif;
+    background-color: rgba(236, 234, 234, 0.463);
+}
+/**sign in nav**/
+.sign-in{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 136px;
+    padding-right: 136px;
+    align-items: center;
+}
+.sign-in button{
+    width: 99px;
+    height: 37px;
+    color: rgb(0, 106, 80);
+    border-color:  rgb(0, 106, 80);
+    border: 1px solid;
+    border-radius: 5px;
+    
+}
+.sign-in button:hover{
+    background-color:rgb(0, 106, 80) ;
+    color: white;
+    border: none;
+}
+.sign-in h1{
+    color: rgb(14, 14, 14);
+}
+/**Banner section**/
+
+.banner-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 136px;
+    margin: 136px;
+    margin-top: 0px;
+    border-radius: 10px;
+    background-color: rgb(198, 228, 214);
+    margin-bottom: 40px;
+
+}
+.banner-text{
+    width: 515px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-top:70px ;
+    padding-left: 50px;
+    gap: -10px;
+}
+.banner-text p{
+    Font-weight:500;
+    Font-size:20px;
+    margin-bottom: 2px;
+    color: rgba(14, 14, 14, 0.5);
+}
+.banner-text h1{
+    margin-top: 0px;
+    color: rgb(14, 14, 14);
+    font-size: 44px;
+    margin-bottom: 5px;
+}
+.banner-text button{
+    width: 230px;
+    height: 35px;
+    margin-top: 0px;
+    background-color: rgb(0, 106, 80);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font: 600;
+}
+.banner-text button:hover{
+    border: 1px solid ;
+    background-color: white;
+    color: rgb(0, 106, 80);
+    border-color: rgb(0, 106, 80);
+ 
+    
+
+}
+.banner-div img{
+    width: 270px;
+    height: 270px;
+    padding: 50px;
+}
+
+/**pillars section**/
+.h1{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: 136px;
+    font-size: 32px;
+}
+.pillars_div{
+    width: 230px;
+    height: 200px;
+    padding: 17px;
+    display: flex;
+    flex-direction:column;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.pillars_div img{
+    width: 38px;
+    gap: 2px;
+}
+.pillars_div h3{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 15px;
+}
+.pillars_div p{
+    font-size: 12px;
+}
+.pillar-main-div{
+    display: flex;
+    margin-left: 130px;
+    margin-right: 136px;
+    margin-top: 20px;
+}
+
+/**future vision**/
+.future_p{
+    margin-left: 130px;
+    margin-right: 130px;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 12px;
+    font-weight: 400;
+
+
+}
+.future-main-div{
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+    gap: 80px;
+    margin-top: 50px;
+}
+.future-main-div img{
+    width: 40px;
+}
+.future-divs{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 10px;
+    padding:25px;
+}
+.future-divs h3{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 13px;
+
+}
+.future-divs p{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 12px;
+}
+.future-divs button{
+    margin-top: 40px;
+    width: 110px;
+    height: 35px;
+    border-radius: 6px;
+    border: none;
+}
+#future-divs_1{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+#future-divs_1 button{
+    background-color: rgb(84, 144, 245);
+    color: white;
+    font-weight: 600;
+}
+#future-divs_1 button:hover{
+    color:rgb(84, 144, 245) ;
+    border: 1px solid rgb(84, 144, 245);
+    background-color: white;
+}
+#future-divs_2{
+    background-color: rgb(198, 228, 214);
+
+}
+#future-divs_2 button{
+    background-color: rgb(9, 161, 92);
+    color: white;
+    font-weight: 600;
+
+}
+#future-divs_2 button:hover{
+    color:rgb(9, 161, 92) ;
+    border: 1px solid rgb(9, 161, 92);
+    background-color: white;
+
+}
+#future-divs_3{
+    background-color: rgb(247, 235, 207);
+
+}
+#future-divs_3 button{
+    background-color: rgb(255, 194, 57);
+    color: white;
+    font-weight: 600;
+
+}
+#future-divs_3 button:hover{
+    color:rgb(255, 194, 57) ;
+    border: 1px solid rgb(255, 194, 57);
+    background-color: white;
+
+}
