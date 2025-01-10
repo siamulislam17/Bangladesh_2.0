@@ -1,6 +1,6 @@
 body{
     font-family: "Fira Sans", serif;
-    background-color: rgba(236, 234, 234, 0.463);
+    background-color: rgba(236, 234, 234, 0.676);
 }
 /**sign in nav**/
 .sign-in{
@@ -209,4 +209,31 @@ body{
     border: 1px solid rgb(255, 194, 57);
     background-color: white;
 
+}
+
+/**quote**/
+.quote{
+    margin: 40px 130px;
+    background-color: white;
+    border-radius: 8px;
+    background-image: url(../assets/quote-bg.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    padding: 20px;
+    
+}
+.quote p{
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.8);
+}
+.quote h4{
+    font-weight: 600;
+    color: rgba(14, 14, 14, 0.8);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#chef_ad{
+    font-size: 10px;
+    margin-top: 5px;
+    color: rgba(14, 14, 14, 0.6);
 }
