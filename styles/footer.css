@@ -1,0 +1,24 @@
+footer{
+    background-color: white;
+    margin-top:65px ;
+}
+.h1_footer{
+    text-align: center;
+    color: rgb(14, 14, 14);
+    font-weight: 700;
+    padding-top: 60px;
+    font-size: 32px;
+}
+footer>div{
+    display: flex;
+    padding: 20px 47%;
+    gap: 20px;
+}
+footer>div img{
+    width: 20px;
+    height: 18px;
+}
+hr{
+    width: 800px;
+    color: 1px rgba(14, 14, 14, 0.1);
+}
