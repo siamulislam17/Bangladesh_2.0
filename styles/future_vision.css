@@ -1,0 +1,89 @@
+/**future vision**/
+.future_p{
+    margin-left: 130px;
+    margin-right: 130px;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 12px;
+    font-weight: 400;
+
+
+}
+.future-main-div{
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+    gap: 80px;
+    margin-top: 50px;
+}
+.future-main-div img{
+    width: 40px;
+}
+.future-divs{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 10px;
+    padding:25px;
+}
+.future-divs h3{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 13px;
+
+}
+.future-divs p{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 12px;
+}
+.future-divs button{
+    margin-top: 40px;
+    width: 110px;
+    height: 35px;
+    border-radius: 6px;
+    border: none;
+}
+#future-divs_1{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+#future-divs_1 button{
+    background-color: rgb(84, 144, 245);
+    color: white;
+    font-weight: 600;
+}
+#future-divs_1 button:hover{
+    color:rgb(84, 144, 245) ;
+    border: 1px solid rgb(84, 144, 245);
+    background-color: white;
+}
+#future-divs_2{
+    background-color: rgb(198, 228, 214);
+
+}
+#future-divs_2 button{
+    background-color: rgb(9, 161, 92);
+    color: white;
+    font-weight: 600;
+
+}
+#future-divs_2 button:hover{
+    color:rgb(9, 161, 92) ;
+    border: 1px solid rgb(9, 161, 92);
+    background-color: white;
+
+}
+#future-divs_3{
+    background-color: rgb(247, 235, 207);
+
+}
+#future-divs_3 button{
+    background-color: rgb(255, 194, 57);
+    color: white;
+    font-weight: 600;
+
+}
+#future-divs_3 button:hover{
+    color:rgb(255, 194, 57) ;
+    border: 1px solid rgb(255, 194, 57);
+    background-color: white;
+
+}
+
