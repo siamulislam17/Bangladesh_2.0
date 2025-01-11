@@ -24,7 +24,7 @@
     background-color: rgb(255, 255, 255);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    margin-bottom: 0px;
+    margin-right: 0px;
 }
 .email_button{
     background-color: rgb(0, 106, 80);
@@ -36,6 +36,7 @@
     margin-top: 20px;
     padding: 11px 27px;
     margin-left: -4px;
+    transition: 0.4s;
     
 }
 .email_button:hover{
